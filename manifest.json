@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exportedAt": "2026-11-06T09:18:49.628Z",
+  "exportedAt": "2026-11-06T14:54:42.976Z",
   "exportedBy": "SCVN-Dan",
   "types": "fbx,texture,sprite,material,audio,prefab,vfx,animation,font,tmpFont",
   "repos": [
@@ -41,8 +41,8 @@
     },
     {
       "repo": "supercent-io/hb_creative_bulldozer",
-      "branches": 27,
-      "commits": 27
+      "branches": 29,
+      "commits": 29
     },
     {
       "repo": "supercent-io/hb_creative_hdrp",
@@ -71,8 +71,8 @@
     },
     {
       "repo": "supercent-io/luna_bulldozermaster",
-      "branches": 83,
-      "commits": 82
+      "branches": 84,
+      "commits": 83
     },
     {
       "repo": "supercent-io/luna_cafelife",
@@ -116,8 +116,13 @@
     },
     {
       "repo": "supercent-io/luna_dragonburst",
-      "branches": 5,
-      "commits": 5
+      "branches": 6,
+      "commits": 6
+    },
+    {
+      "repo": "supercent-io/luna_fantasyxhunters",
+      "branches": 4,
+      "commits": 4
     },
     {
       "repo": "supercent-io/luna_flamehunt",
@@ -191,8 +196,8 @@
     },
     {
       "repo": "supercent-io/luna_rushattack",
-      "branches": 2,
-      "commits": 2
+      "branches": 3,
+      "commits": 3
     },
     {
       "repo": "supercent-io/luna_sharkuniverse",
@@ -236,8 +241,8 @@
     },
     {
       "repo": "supercent-io/luna_themeparkmanager",
-      "branches": 84,
-      "commits": 83
+      "branches": 85,
+      "commits": 84
     },
     {
       "repo": "supercent-io/luna_waterpark",
@@ -255,6 +260,6 @@
       "commits": 1
     }
   ],
-  "thumbs": 16674,
-  "stats": 12413
+  "thumbs": 17277,
+  "stats": 12958
 }
