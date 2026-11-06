@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "exportedAt": "2026-11-06T07:07:22.075Z",
+  "exportedBy": "SCVN-Dan",
+  "types": "fbx,texture,sprite,material,audio,prefab,vfx,animation,font,tmpFont",
+  "repos": [
+    {
+      "repo": "supercent-io/hb_creative_bulldozer",
+      "branches": 27,
+      "commits": 27
+    }
+  ],
+  "thumbs": 71,
+  "stats": 71
+}
