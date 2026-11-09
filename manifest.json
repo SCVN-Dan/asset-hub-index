@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exportedAt": "2026-11-09T03:54:40.074Z",
+  "exportedAt": "2026-11-09T06:24:42.454Z",
   "exportedBy": "SCVN-Dan",
   "types": "fbx,texture,sprite,material,audio,prefab,vfx,animation,font,tmpFont",
   "repos": [
@@ -41,8 +41,8 @@
     },
     {
       "repo": "supercent-io/hb_creative_bulldozer",
-      "branches": 30,
-      "commits": 30
+      "branches": 34,
+      "commits": 34
     },
     {
       "repo": "supercent-io/hb_creative_hdrp",
@@ -71,8 +71,8 @@
     },
     {
       "repo": "supercent-io/luna_bulldozermaster",
-      "branches": 85,
-      "commits": 84
+      "branches": 77,
+      "commits": 76
     },
     {
       "repo": "supercent-io/luna_cafelife",
@@ -101,8 +101,8 @@
     },
     {
       "repo": "supercent-io/luna_devilhunter",
-      "branches": 209,
-      "commits": 208
+      "branches": 211,
+      "commits": 210
     },
     {
       "repo": "supercent-io/luna_dino",
@@ -146,8 +146,8 @@
     },
     {
       "repo": "supercent-io/luna_idleoilempire",
-      "branches": 8,
-      "commits": 8
+      "branches": 9,
+      "commits": 9
     },
     {
       "repo": "supercent-io/luna_lumberchopper",
@@ -260,6 +260,6 @@
       "commits": 1
     }
   ],
-  "thumbs": 18785,
-  "stats": 14186
+  "thumbs": 19308,
+  "stats": 14704
 }
