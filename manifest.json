@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exportedAt": "2026-11-09T09:09:29.289Z",
+  "exportedAt": "2026-11-10T01:30:32.850Z",
   "exportedBy": "SCVN-Dan",
   "types": "fbx,texture,sprite,material,audio,prefab,vfx,animation,font,tmpFont",
   "repos": [
@@ -41,8 +41,8 @@
     },
     {
       "repo": "supercent-io/hb_creative_bulldozer",
-      "branches": 34,
-      "commits": 34
+      "branches": 38,
+      "commits": 38
     },
     {
       "repo": "supercent-io/hb_creative_hdrp",
@@ -116,8 +116,8 @@
     },
     {
       "repo": "supercent-io/luna_dragonburst",
-      "branches": 6,
-      "commits": 6
+      "branches": 7,
+      "commits": 7
     },
     {
       "repo": "supercent-io/luna_fantasyxhunters",
@@ -146,8 +146,8 @@
     },
     {
       "repo": "supercent-io/luna_idleoilempire",
-      "branches": 9,
-      "commits": 9
+      "branches": 10,
+      "commits": 10
     },
     {
       "repo": "supercent-io/luna_lumberchopper",
@@ -196,8 +196,8 @@
     },
     {
       "repo": "supercent-io/luna_rushattack",
-      "branches": 3,
-      "commits": 3
+      "branches": 4,
+      "commits": 4
     },
     {
       "repo": "supercent-io/luna_sharkuniverse",
@@ -216,8 +216,8 @@
     },
     {
       "repo": "supercent-io/luna_snake",
-      "branches": 305,
-      "commits": 303
+      "branches": 306,
+      "commits": 304
     },
     {
       "repo": "supercent-io/luna_spinminer",
@@ -260,6 +260,6 @@
       "commits": 1
     }
   ],
-  "thumbs": 19928,
-  "stats": 15325
+  "thumbs": 20087,
+  "stats": 15484
 }
