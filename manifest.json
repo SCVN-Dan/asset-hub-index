@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exportedAt": "2026-11-10T04:00:40.454Z",
+  "exportedAt": "2026-11-10T10:30:37.866Z",
   "exportedBy": "SCVN-Dan",
   "types": "fbx,texture,sprite,material,audio,prefab,vfx,animation,font,tmpFont",
   "repos": [
@@ -260,6 +260,6 @@
       "commits": 1
     }
   ],
-  "thumbs": 24017,
-  "stats": 17303
+  "thumbs": 23621,
+  "stats": 17314
 }
