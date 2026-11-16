@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exportedAt": "2026-11-16T03:22:53.314Z",
+  "exportedAt": "2026-11-16T10:22:57.007Z",
   "exportedBy": "SCVN-Dan",
   "types": "fbx,texture,sprite,material,audio,prefab,vfx,animation,font,tmpFont",
   "repos": [
@@ -41,8 +41,8 @@
     },
     {
       "repo": "supercent-io/hb_creative_bulldozer",
-      "branches": 57,
-      "commits": 57
+      "branches": 61,
+      "commits": 60
     },
     {
       "repo": "supercent-io/hb_creative_hdrp",
@@ -71,8 +71,8 @@
     },
     {
       "repo": "supercent-io/luna_bulldozermaster",
-      "branches": 77,
-      "commits": 76
+      "branches": 78,
+      "commits": 77
     },
     {
       "repo": "supercent-io/luna_cafelife",
@@ -101,8 +101,8 @@
     },
     {
       "repo": "supercent-io/luna_devilhunter",
-      "branches": 214,
-      "commits": 213
+      "branches": 215,
+      "commits": 214
     },
     {
       "repo": "supercent-io/luna_dino",
@@ -116,8 +116,8 @@
     },
     {
       "repo": "supercent-io/luna_dragonburst",
-      "branches": 9,
-      "commits": 8
+      "branches": 10,
+      "commits": 10
     },
     {
       "repo": "supercent-io/luna_fantasyxhunters",
@@ -146,8 +146,8 @@
     },
     {
       "repo": "supercent-io/luna_idleoilempire",
-      "branches": 17,
-      "commits": 17
+      "branches": 19,
+      "commits": 19
     },
     {
       "repo": "supercent-io/luna_lumberchopper",
@@ -181,8 +181,8 @@
     },
     {
       "repo": "supercent-io/luna_pizza",
-      "branches": 765,
-      "commits": 764
+      "branches": 766,
+      "commits": 765
     },
     {
       "repo": "supercent-io/luna_pizzasimulator",
@@ -246,7 +246,7 @@
     },
     {
       "repo": "supercent-io/luna_themeparkmanager",
-      "branches": 88,
+      "branches": 87,
       "commits": 86
     },
     {
@@ -265,6 +265,6 @@
       "commits": 1
     }
   ],
-  "thumbs": 24743,
-  "stats": 18288
+  "thumbs": 24863,
+  "stats": 18386
 }
