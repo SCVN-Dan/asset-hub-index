@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "exportedAt": "2026-11-18T02:27:09.744Z",
+  "exportedAt": "2026-11-18T08:07:24.556Z",
   "exportedBy": "SCVN-Dan",
   "types": "fbx,texture,sprite,material,audio,prefab,vfx,animation,font,tmpFont",
   "repos": [
@@ -32,7 +32,7 @@
     {
       "repo": "supercent-io/addev_specs",
       "branches": 1,
-      "commits": 1
+      "commits": 0
     },
     {
       "repo": "supercent-io/asset-hub-feedback",
@@ -41,8 +41,8 @@
     },
     {
       "repo": "supercent-io/hb_creative_bulldozer",
-      "branches": 64,
-      "commits": 50
+      "branches": 66,
+      "commits": 60
     },
     {
       "repo": "supercent-io/hb_creative_hdrp",
@@ -57,7 +57,7 @@
     {
       "repo": "supercent-io/hb_creative_xp_hero",
       "branches": 125,
-      "commits": 115
+      "commits": 121
     },
     {
       "repo": "supercent-io/luna_arrowflow",
@@ -71,8 +71,8 @@
     },
     {
       "repo": "supercent-io/luna_bulldozermaster",
-      "branches": 79,
-      "commits": 74
+      "branches": 78,
+      "commits": 70
     },
     {
       "repo": "supercent-io/luna_cafelife",
@@ -82,7 +82,7 @@
     {
       "repo": "supercent-io/luna_captainofspace",
       "branches": 13,
-      "commits": 12
+      "commits": 10
     },
     {
       "repo": "supercent-io/luna_cardealer",
@@ -97,7 +97,7 @@
     {
       "repo": "supercent-io/luna_crablife",
       "branches": 7,
-      "commits": 6
+      "commits": 7
     },
     {
       "repo": "supercent-io/luna_devilhunter",
@@ -107,7 +107,7 @@
     {
       "repo": "supercent-io/luna_dino",
       "branches": 223,
-      "commits": 223
+      "commits": 222
     },
     {
       "repo": "supercent-io/luna_dinoking",
@@ -116,8 +116,8 @@
     },
     {
       "repo": "supercent-io/luna_dragonburst",
-      "branches": 10,
-      "commits": 10
+      "branches": 9,
+      "commits": 7
     },
     {
       "repo": "supercent-io/luna_fantasyxhunters",
@@ -147,7 +147,7 @@
     {
       "repo": "supercent-io/luna_idleoilempire",
       "branches": 24,
-      "commits": 19
+      "commits": 24
     },
     {
       "repo": "supercent-io/luna_lumberchopper",
@@ -182,7 +182,7 @@
     {
       "repo": "supercent-io/luna_pizza",
       "branches": 766,
-      "commits": 761
+      "commits": 765
     },
     {
       "repo": "supercent-io/luna_pizzasimulator",
@@ -217,17 +217,17 @@
     {
       "repo": "supercent-io/luna_smashdown",
       "branches": 52,
-      "commits": 50
+      "commits": 46
     },
     {
       "repo": "supercent-io/luna_snake",
       "branches": 310,
-      "commits": 301
+      "commits": 304
     },
     {
       "repo": "supercent-io/luna_spinminer",
       "branches": 15,
-      "commits": 14
+      "commits": 13
     },
     {
       "repo": "supercent-io/luna_sportshop",
@@ -237,7 +237,7 @@
     {
       "repo": "supercent-io/luna_suzyrestaurant",
       "branches": 101,
-      "commits": 100
+      "commits": 99
     },
     {
       "repo": "supercent-io/luna_terminal",
@@ -247,7 +247,7 @@
     {
       "repo": "supercent-io/luna_themeparkmanager",
       "branches": 87,
-      "commits": 83
+      "commits": 82
     },
     {
       "repo": "supercent-io/luna_waterpark",
@@ -265,6 +265,6 @@
       "commits": 1
     }
   ],
-  "thumbs": 24884,
-  "stats": 18394
+  "thumbs": 25103,
+  "stats": 18601
 }
